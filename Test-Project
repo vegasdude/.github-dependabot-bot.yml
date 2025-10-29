@@ -1,0 +1,4 @@
+Bash
+npm publish --registry=https://npm.pkg.github.com/
+Bash
+docker push ghcr.io/vegasdude/your-package-name:tag
